@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['fishbeta_0',['FishBeta',['../class_fish_beta.html#ace54a1ce0ee9fa993a6af593cd377fcc',1,'FishBeta::FishBeta()=delete'],['../class_fish_beta.html#a7df8cbcbef21a8ad6481404c0078b88e',1,'FishBeta::FishBeta(const FishBeta &amp;)=delete'],['../class_fish_beta.html#a6098ed04741309b20a3f4f1a912625eb',1,'FishBeta::FishBeta(Aquarium *aquarium)']]],
+  ['fishbubbles_1',['FishBubbles',['../class_fish_bubbles.html#a5f514c59b2669dbd28411afc154f4fc4',1,'FishBubbles::FishBubbles()=delete'],['../class_fish_bubbles.html#a42da364e54cbf3956ee78afa5e2a9dd8',1,'FishBubbles::FishBubbles(const FishBubbles &amp;)=delete'],['../class_fish_bubbles.html#abe573913beae6b264a8ab630622e4c61',1,'FishBubbles::FishBubbles(Aquarium *aquarium)']]],
+  ['fishkillercarp_2',['FishKillerCarp',['../class_fish_killer_carp.html#ac3c696f3bc5e330c68f5690decf8051e',1,'FishKillerCarp::FishKillerCarp()=delete'],['../class_fish_killer_carp.html#aa83390f282c5cc0fbd52334aff5ae8a0',1,'FishKillerCarp::FishKillerCarp(const FishKillerCarp &amp;)=delete'],['../class_fish_killer_carp.html#ae07f93860da6d5b006e7cb7fe6a3d5bd',1,'FishKillerCarp::FishKillerCarp(Aquarium *aquarium)']]],
+  ['fishmagikarp_3',['FishMagikarp',['../class_fish_magikarp.html#a2ecb9e6a9f3ff21e7d3eed0306fcc961',1,'FishMagikarp::FishMagikarp()=delete'],['../class_fish_magikarp.html#a9dfdc7fa4608d7f634962d232f6b09a0',1,'FishMagikarp::FishMagikarp(const FishMagikarp &amp;)=delete'],['../class_fish_magikarp.html#ae9bfddb119e160276737b293dda851fc',1,'FishMagikarp::FishMagikarp(Aquarium *aquarium)']]]
+];
